@@ -3,9 +3,9 @@
 /**
 * main - print a bunch of crap
 *
-* Description: print from main
+* Description: blah blah printing blah
 * print with proper grammar, but the outcome is a piece of art,
-* return: 0
+* Return: 0
 */
 
 int main(void)
