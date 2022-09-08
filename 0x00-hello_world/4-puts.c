@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-* main: a bunch of crap
+* main - print nonsense
 *
-*
-* Description: Programming is like bulding a multilingual puzzle
+* Description: prints from the main
+* prints "Programming is like building a multilingual puzzle
 * Return: 0
 */
 
@@ -13,4 +13,3 @@ int main(void)
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
-
