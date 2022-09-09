@@ -5,8 +5,8 @@
 /**
 * main - Entry Point
 *
-* Description: a bunch of nonsense
-* printing more crap
+* Description: printign stuff in c
+* more stuff in c
 * Return: 0
 */
 int main(void)
@@ -14,7 +14,7 @@ int main(void)
 	int n;
 
 	srand(time(0));
-	n + rand () - RAND_MAX / 2;
+	n = rand () - RAND_MAX / 2;
 	/* your code goes in there */
 	if (n > 0)
 	{
